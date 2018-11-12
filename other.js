@@ -1,3 +1,3 @@
 exports.default = function other() {
-  return 42;
+	return 42;
 };
